@@ -1,0 +1,16 @@
+=> On a bare minimum explanation, API are function prototypes which enable the
+   user to use the functionality of any component by making a function call 
+   without revealing the internal workings of the component.
+
+=> It is a mode of abstraction from the lower layers of software stack , so as 
+   to only provide service when needed for higher layers.
+
+=> An API can manifest in many forms, it can be a simple function call in C,
+   it can be web service API such as Twitter or FB API, it can be a library call
+   to OS kernel, or can be an interrupt routine.
+
+
+=> API can be just a standalone call or in form of libraries. API are part 
+   and parcel of software interaction and data transfer.
+
+Hope this clarifies.
